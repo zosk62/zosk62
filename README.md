@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<h1 align="center">Hey Everyone 👋, I'm Sara</h1>
+<div align="center"> <img src=""> </div>
 <h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
