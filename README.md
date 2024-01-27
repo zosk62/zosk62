@@ -38,7 +38,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ## Projects
 
-### Portfolio Projects
+### 📁 Portfolio Projects
 
 1. **Featured Portfolio Project**
    - Link: [Project Repository](link-to-repository)
@@ -48,7 +48,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ---
 
-### Fun Collaborative Projects
+### 🎉 Fun Collaborative Projects
 
 1. **Awesome Collaboration Project**
    - Collaborators: List of collaborators and their contributions.
@@ -60,7 +60,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ---
 
-### Data Scientist Projects
+### 📊 Data Scientist Projects
 
 1. **Data Scientist Project 1**
    - Link: [Project Repository](link-to-repository)
@@ -70,7 +70,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ---
 
-### AI Projects
+### 🤖 AI Projects
 
 1. **ML/AI Project 1**
    - Link: [Project Repository](link-to-repository)
@@ -80,7 +80,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ---
 
-### Back-End Projects
+### 💻 Back-End Projects
 
 1. **Back-End Project 1**
    - Link: [Project Repository](link-to-repository)
@@ -90,7 +90,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ---
 
-### Front-End Projects
+### 🌐 Front-End Projects
 
 1. **Front-End Project 1**
    - Link: [Project Repository](link-to-repository)
