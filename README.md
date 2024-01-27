@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Scientist and AI engineer from South Korea</h3>
 
 - 🔭 Currently, I am engaged in AI and Data Analysis projects.
-- 🌱 I’m currently learning **GUI for Python**
 - 👯 I am open to collaboration on **AI and Data Analysis projects**.
 - 🤝 I am seeking assistance with a matter that I will update here shortly.
 - 👨‍💻 All of my projects are available at [https://github.com/zosk62](https://github.com/zosk62)
