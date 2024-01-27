@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara K (Previously known as ZO</h1>
+<h1 align="center">Hi 👋, I'm Sara K (Previously known as ZO) </h1>
 <h3 align="center">A passionate Data Scientist and AI engineer from South Korean</h3>
 
 - 🔭 I’m currently working on [AI projects, Data Analysis projects](https://github.com/zosk62/test)
