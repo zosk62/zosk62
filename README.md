@@ -11,6 +11,10 @@
 - 📄 Explore my professional experiences at **https://github.com/zosk62**.
 - ⚡ Fun fact: **I find myself increasingly passionate about learning as I age.**
 
+- 
+- ## My CV
+You can view my CV on [GitHub Pages](link-to-github-pages).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://kaggle.com/zosk62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zosk62" height="30" width="40" /></a>
