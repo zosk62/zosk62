@@ -32,7 +32,10 @@
   
 </p>
 
-
+# Significant Portfolio Projects
+- [Project 1](https://github.com/zosk62/test)
+- [Project 2](https://github.com/zosk62/python-project-2)
+- [Project 3](https://github.com/zosk62/python-project-3)
 
 # Python Projects
 - [Project 1](https://github.com/zosk62/python-project-1)
