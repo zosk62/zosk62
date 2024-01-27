@@ -41,61 +41,60 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 ### Portfolio Projects
 
 1. **Featured Portfolio Project**
-   - Description: A showcase of a significant project from your portfolio.
    - Link: [Project Repository](link-to-repository)
 
 2. **Another Portfolio Project**
-   - Description: Another notable project that highlights your skills.
    - Link: [Project Repository](link-to-repository)
+
+---
 
 ### Fun Collaborative Projects
 
 1. **Awesome Collaboration Project**
-   - Description: An exciting project collaborated on for fun.
    - Collaborators: List of collaborators and their contributions.
    - Link: [Project Repository](link-to-repository)
 
 2. **Fantastic Team Project**
-   - Description: Another collaborative project that was both enjoyable and challenging.
    - Collaborators: Collaborator names and their roles.
    - Link: [Project Repository](link-to-repository)
+
+---
 
 ### Data Scientist Projects
 
 1. **Data Scientist Project 1**
-   - Description: Description of a data science project.
    - Link: [Project Repository](link-to-repository)
 
 2. **Data Visualization Project 2**
-   - Description: Another data analysis project with a focus on visualization.
    - Link: [Project Repository](link-to-repository)
+
+---
 
 ### AI Projects
 
 1. **ML/AI Project 1**
-   - Description: A project involving machine learning or artificial intelligence.
    - Link: [Project Repository](link-to-repository)
 
 2. **Deep Learning Project 2**
-   - Description: A deep learning project showcasing advanced AI techniques.
    - Link: [Project Repository](link-to-repository)
+
+---
 
 ### Back-End Projects
 
 1. **Back-End Project 1**
-   - Description: Description of a back-end development project.
    - Link: [Project Repository](link-to-repository)
 
 2. **Server-side Project 2**
-   - Description: Another back-end project involving server-side development.
    - Link: [Project Repository](link-to-repository)
+
+---
 
 ### Front-End Projects
 
 1. **Front-End Project 1**
-   - Description: Description of a front-end development project.
    - Link: [Project Repository](link-to-repository)
 
 2. **UI/UX Design Project 2**
-   - Description: A project focusing on user interface and user experience design.
    - Link: [Project Repository](link-to-repository)
+
