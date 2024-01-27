@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sara K (Previously known as ZO) </h1>
 <h3 align="center">A passionate Data Scientist and AI engineer from South Korean</h3>
 
-- 🔭 I’m currently working on [AI projects, Data Analysis projects](https://github.com/zosk62/test)
+- 🔭 Currently, I am engaged in AI and Data Analysis projects.
 
 - 🌱 I’m currently learning **GUI for Python**
 
-- 👯 I’m looking to collaborate on **AI projects, Data Analysis projects**
+- 👯  I am open to collaboration on **AI and Data Analysis projects**.
 
-- 🤝 I’m looking for help with **I will update here**
+- 🤝 I am seeking assistance with a matter that I will update here shortly.
 
 - 👨‍💻 All of my projects are available at [https://github.com/zosk62](https://github.com/zosk62)
 
-- 📝 I regularly write articles on [will be posted later](will be posted later)
+- 📝 I consistently contribute articles on [will be posted later] (publication details to follow).
 
-- 💬 Ask me about **ML, DL, Data Analysis, Python**
+- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Data Analysis, and Python**.
 
 - 📫 How to reach me **zosk62@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/zosk62](https://github.com/zosk62)
+- 📄 Explore my professional experiences at **https://github.com/zosk62**.
 
-- ⚡ Fun fact **I think I am gettin more pattionate about learning as I age**
+- ⚡ Fun fact **Fun fact: I find myself increasingly passionate about learning as I age.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
