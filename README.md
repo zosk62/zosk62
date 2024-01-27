@@ -7,9 +7,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/zosk62](https://github.com/zosk62)
 - 📝 I consistently contribute articles on [will be posted later] (publication details to follow).
 - 💬 Feel free to ask me about **Machine Learning, Deep Learning, Data Analysis, and Python**.
-- 📫 How to reach me **zosk62@gmail.com**
-- 📄 Explore my professional experiences at **https://github.com/zosk62**.
-- ⚡ Fun fact: **I find myself increasingly passionate about learning as I age.**
+- 📫 How to reach me: **zosk62@gmail.com**
+- 📄 Explore my professional experiences at [https://github.com/zosk62](https://github.com/zosk62).
+- ⚡ Fun fact: **I find myself increasingly passionate about learning as I age.** => why
+
 
 - 
 - ## My CV
