@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **GUI for Python**
 - 👯 I am open to collaboration on **AI and Data Analysis projects**.
 - 🤝 I am seeking assistance with a matter that I will update here shortly.
-- 👨💻 All of my projects are available at [https://github.com/zosk62](https://github.com/zosk62)
+- 👨‍💻 All of my projects are available at [https://github.com/zosk62](https://github.com/zosk62)
 - 📝 I consistently contribute articles on [will be posted later] (publication details to follow).
 - 💬 Feel free to ask me about **Machine Learning, Deep Learning, Data Analysis, and Python**.
 - 📫 How to reach me **zosk62@gmail.com**
