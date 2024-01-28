@@ -63,11 +63,8 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 📊 Data Scientist Projects
 
-1. **Data Scientist Project 1**
-   - Link: [Project Repository](link-to-repository)
-
-2. **Data Visualization Project 2**
-   - Link: [Project Repository](link-to-repository)
+1. [YouTube Sentiment Insights](https://github.com/zosk62/Youtube_comments_wordcloud)
+2. [Your Other Project Name](https://github.com/your_username/your_project)
 
 ---
 
