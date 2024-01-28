@@ -41,23 +41,17 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 📁 Portfolio Projects
 
-1. **Featured Portfolio Project**
-   - Link: [Project Repository](link-to-repository)
+1. [Project Name](https://github.com/zosk62/A)
+2. [Project Name](https://github.com/zosk62/A)
 
-2. **Another Portfolio Project**
-   - Link: [Project Repository](link-to-repository)
-
+   
 ---
 
 ### 🎉 Fun Collaborative Projects
 
-1. **Awesome Collaboration Project**
-   - Collaborators: List of collaborators and their contributions.
-   - Link: [Project Repository](link-to-repository)
+1. [Project Name](https://github.com/zosk62/A)
+2. [Project Name](https://github.com/zosk62/A)
 
-2. **Fantastic Team Project**
-   - Collaborators: Collaborator names and their roles.
-   - Link: [Project Repository](link-to-repository)
 
 ---
 
@@ -70,29 +64,23 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 🤖 AI Projects
 
-1. **ML/AI Project 1**
-   - Link: [Project Repository](link-to-repository)
+1. [Project Name](https://github.com/zosk62/A)
+2. [Project Name](https://github.com/zosk62/A)
 
-2. **Deep Learning Project 2**
-   - Link: [Project Repository](link-to-repository)
 
 ---
 
 ### 💻 Back-End Projects
 
-1. **Back-End Project 1**
-   - Link: [Project Repository](link-to-repository)
+1. [Project Name](https://github.com/zosk62/A)
+2. [Project Name](https://github.com/zosk62/A)
 
-2. **Server-side Project 2**
-   - Link: [Project Repository](link-to-repository)
 
 ---
 
 ### 🌐 Front-End Projects
 
-1. **Front-End Project 1**
-   - Link: [Project Repository](link-to-repository)
+1. [Project Name](https://github.com/zosk62/A)
+2. [Project Name](https://github.com/zosk62/A)
 
-2. **UI/UX Design Project 2**
-   - Link: [Project Repository](link-to-repository)
 
