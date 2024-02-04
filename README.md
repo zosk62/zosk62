@@ -49,7 +49,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 🎉 Fun Collaborative Projects
 
-1. [Project Name](https://github.com/zosk62/A)
+1. [Electric_Vehicle_Charging_Station_System](https://github.com/zosk62/P03_Electric_Vehicle_Charging_Station)
 
 
 ---
