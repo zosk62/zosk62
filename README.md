@@ -72,8 +72,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 💻 Back-End Projects
 
-1. [Project Name](https://github.com/zosk62/A)
-2. [Project Name](https://github.com/zosk62/A)
+1. [Library Management System](https://github.com/zosk62/Library_Management_System/tree/main)
 
 
 ---
