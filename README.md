@@ -49,7 +49,8 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 🎉 Fun Collaborative Projects
 
-1. [Electric_Vehicle_Charging_Station_System](https://github.com/zosk62/P03_Electric_Vehicle_Charging_Station)
+1. [Renewable_Energy_Utilization_Analysis](https://github.com/zosk62/P04_Renewable_Energy_Utilization_Analysis)
+2. [Electric_Vehicle_Charging_Station_System](https://github.com/zosk62/P03_Electric_Vehicle_Charging_Station)
 
 
 ---
