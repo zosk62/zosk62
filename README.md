@@ -70,7 +70,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 💻 Back-End Projects
 
-1. [Library Management System](https://github.com/zosk62/Library_Management_System/tree/main)
+1. [Library Management System](https://github.com/zosk62/P02_Library_Management_System)
 
 
 ---
