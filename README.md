@@ -56,7 +56,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 📊 Data Scientist Projects
 
-1. [YouTube Sentiment Insights](https://github.com/zosk62/Youtube_comments_wordcloud)
+1. [YouTube Sentiment Insights](https://github.com/zosk62/DA01_Youtube_comments_wordcloud)
 
 ---
 
