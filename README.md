@@ -80,7 +80,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 🌐 Front-End Projects
 
-1. [Project Name](https://github.com/zosk62/A)
-2. [Project Name](https://github.com/zosk62/A)
+1. [Instagram Page Implementation]([https://github.com/zosk62/A](https://github.com/zosk62/Instagram_Page))
+
 
 
