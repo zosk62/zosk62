@@ -77,7 +77,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 🌐 Front-End Projects
 
-1. [Instagram Page Implementation](https://github.com/zosk62/Instagram_Page)
+1. [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
 
 
 
