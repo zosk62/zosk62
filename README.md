@@ -42,7 +42,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 ### 🌟 Showcase Projects
 
 1. [Project Name](https://github.com/zosk62/A)
-2. [Project Name](https://github.com/zosk62/A)
+
 
    
 ---
@@ -50,7 +50,6 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 ### 🎉 Fun Collaborative Projects
 
 1. [Project Name](https://github.com/zosk62/A)
-2. [Project Name](https://github.com/zosk62/A)
 
 
 ---
@@ -58,14 +57,13 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 ### 📊 Data Scientist Projects
 
 1. [YouTube Sentiment Insights](https://github.com/zosk62/Youtube_comments_wordcloud)
-2. [Your Other Project Name](https://github.com/your_username/your_project)
 
 ---
 
 ### 🤖 AI Projects
 
-1. [Project Name](https://github.com/zosk62/A)
-2. [Project Name](https://github.com/zosk62/A)
+1. [To be added soon](https://github.com/zosk62/A)
+
 
 
 ---
