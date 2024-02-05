@@ -39,7 +39,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ## Projects
 
-### 🌟 Showcase Projects
+### 🌟 Showcase Projects (ML/DL Application)
 
 1. [Project Name](https://github.com/zosk62/A)
 
