@@ -3,19 +3,15 @@
 
 - 🔭 Currently, I am engaged in AI and Data Analysis projects.
 - 👯 I am open to collaboration on **AI and Data Analysis projects**.
-- 🤝 I am seeking assistance with a matter that I will update here shortly.
-- 👨‍💻 All of my projects are available at [https://github.com/zosk62](https://github.com/zosk62)
-- 📝 I consistently contribute articles on [will be posted later] (publication details to follow).
-- 💬 Feel free to ask me about **Machine Learning, Deep Learning, Data Analysis, and Python**.
-- 📄 Explore my professional experiences at [https://github.com/zosk62](https://github.com/zosk62).
-- ⚡ Fun fact: **I find myself increasingly passionate about learning as I age.** => why
 
 - 📫 Reach me at: **zosk62@gmail.com**
   You can also find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/).
   
-  
+---
 - ## My CV
 You can view my CV on [GitHub Pages](link-to-github-pages).
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
