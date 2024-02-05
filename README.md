@@ -101,7 +101,7 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 
 <details>
-  <summary>🎉 Fun Collaborative Projects</summary>
+  🎉 Fun Collaborative Projects</summary>
 
   - UAM_Taxi_Reservation_Service
   - Renewable_Energy_Utilization_Analysis
