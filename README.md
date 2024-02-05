@@ -99,24 +99,20 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
   </details>
 
+---
 
 <details>
-  🎉 Fun Collaborative Projects</summary>
+  <summary>🎉 Fun Collaborative Projects</summary>
 
-  - UAM_Taxi_Reservation_Service
-  - Renewable_Energy_Utilization_Analysis
-  - [Show more >>>](#)
-
+  1. [UAM_Taxi_Reservation_Service](https://github.com/zosk62/P05_UAM_Taxi_Reservation_Service)
+  2. [Renewable_Energy_Utilization_Analysis](https://github.com/zosk62/P04_Renewable_Energy_Utilization_Analysis)
+  3. <details>
+       <summary>Show more >>> </summary>
+       
+       - [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
+       - [Another Project](https://github.com/zosk62/Another_Project)
+       - [Yet Another Project](https://github.com/zosk62/Yet_Another_Project)
+       <!-- Add more projects as needed -->
+       
+    </details>
 </details>
-
-<details>
-  <summary>Show more >>> </summary>
-
-  - [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
-  - [Another Project](https://github.com/zosk62/Another_Project)
-  - [Yet Another Project](https://github.com/zosk62/Yet_Another_Project)
-  <!-- Add more projects as needed -->
-
-</details>
-
-
