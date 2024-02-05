@@ -56,33 +56,13 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ---
 
-### 📊 Data Scientist Projects
+### 📊 Data Science, Machine Learning, and Deep Learning Projects
 
 1. [YouTube Sentiment Insights](https://github.com/zosk62/DA01_Youtube_comments_wordcloud)
 
 ---
 
-### 🤖 AI Projects
 
-1. [To be added soon](https://github.com/zosk62/A)
-
-
-
----
-
-### 💻 Back-End Projects
-
-1. [Library Management System](https://github.com/zosk62/P02_Library_Management_System)
-
-
----
-
-### 🌐 Front-End Projects
-
-1. [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
-
-
----
 ### 🌐 Front-End & Back-End Projects
 1. [Library Management System](https://github.com/zosk62/P02_Library_Management_System) 📖
 2. [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page) 📱
