@@ -85,17 +85,17 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 ---
 
 
-### 🎉 Fun Collaborative Projects
+### 🐍 Python Apps & GUI Design
 
-1. [UAM_Taxi_Reservation_Service](https://github.com/zosk62/P05_UAM_Taxi_Reservation_Service)
-2. [Renewable_Energy_Utilization_Analysis](https://github.com/zosk62/P04_Renewable_Energy_Utilization_Analysis)
-3. <details>
+1. [A1](https://github.com/zosk62/P05_UAM_Taxi_Reservation_Service)
+2. [A2](https://github.com/zosk62/P04_Renewable_Energy_Utilization_Analysis)
+ <details>
      <summary>Show more >>> </summary>
 
-     1. [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
-     2. [Another Project](https://github.com/zosk62/Another_Project)
-     3. [Yet Another Project](https://github.com/zosk62/Yet_Another_Project)
-     <!-- Add more projects as needed -->
+     -  [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
+     -  [Another Project](https://github.com/zosk62/Another_Project)
+     -  [Yet Another Project](https://github.com/zosk62/Yet_Another_Project)
+     
   </details>
 
 ---
