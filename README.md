@@ -100,5 +100,23 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
   </details>
 
 
+<details>
+  <summary>🎉 Fun Collaborative Projects</summary>
+
+  - UAM_Taxi_Reservation_Service
+  - Renewable_Energy_Utilization_Analysis
+  - [Show more >>>](#)
+
+</details>
+
+<details>
+  <summary>Show more >>> </summary>
+
+  - [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
+  - [Another Project](https://github.com/zosk62/Another_Project)
+  - [Yet Another Project](https://github.com/zosk62/Yet_Another_Project)
+  <!-- Add more projects as needed -->
+
+</details>
 
 
