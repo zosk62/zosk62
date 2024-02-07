@@ -9,7 +9,7 @@
   
 ---
 - ## My CV
-You can view my CV on [GitHub Pages](link-to-github-pages).
+You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ---
 
