@@ -56,7 +56,8 @@ You can view my CV on [GitHub Pages](link-to-github-pages).
 
 ### 📊 Data Science, Machine Learning, and Deep Learning Projects
 
-1. [YouTube Sentiment Insights](https://github.com/zosk62/DA01_Youtube_comments_wordcloud)
+1. [ommerce_Data_Dashboard_Streamlit](https://github.com/zosk62/Commerce_Data_Dashboard/tree/main)
+2. [YouTube Sentiment Insights](https://github.com/zosk62/DA01_Youtube_comments_wordcloud)
 
 ---
 
