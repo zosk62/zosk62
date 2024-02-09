@@ -71,16 +71,9 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ### 🐍 Python Apps & GUI Design
 
-1. [A1](https://github.com/zosk62/P05_UAM_Taxi_Reservation_Service)
-2. [A2](https://github.com/zosk62/P04_Renewable_Energy_Utilization_Analysis)
- <details>
- <summary>Show more >>> </summary>
-
- - [Instagram Page Implementation](https://github.com/zosk62/P01_Instagram_Page)
- - [Another Project](https://github.com/zosk62/Another_Project)
- - [Yet Another Project](https://github.com/zosk62/Yet_Another_Project)
-     
-  </details>
+1. [Task_Manager_PyQt5_Python](https://github.com/zosk62/Task_Manager_PyQt5_Python/tree/main)
+2. 
+ 
 
 ---
 
