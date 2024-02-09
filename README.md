@@ -56,7 +56,7 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ### 📊 Data Science, Machine Learning, and Deep Learning Projects
 
-1. [Commerce_Data_Dashboard_Streamlit](https://github.com/zosk62/Commerce_Data_Dashboard/tree/main) 🛒 📊
+1. [Commerce_Data_Dashboard_Streamlit](https://github.com/zosk62/DA02_Commerce_Data_Dashboard) 🛒 📊
 2. [YouTube Sentiment Insights](https://github.com/zosk62/DA01_Youtube_comments_wordcloud) 🎥 📈
 
 ---
