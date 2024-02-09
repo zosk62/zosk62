@@ -71,8 +71,8 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ### 🐍 Python Apps & GUI Design
 
-1. [Task_Manager_PyQt5_Python](https://github.com/zosk62/Task_Manager_PyQt5_Python/tree/main)
-2. 
+1. [Task_Manager_PyQt5_Python](https://github.com/zosk62/GUI01_Task_Manager_PyQt5_Python)
+
  
 
 ---
