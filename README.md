@@ -39,7 +39,7 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ### 🌟 Showcase Projects (ML/DL Application)
 
-1. [Project Name](https://github.com/zosk62/A)
+1. [BatteryInsight-SoH_Analysis_and_Predictive_Modeling](https://github.com/zosk62/PB01_BatteryInsight-SoH_Analysis_and_Predictive_Modeling)
 
 
    
