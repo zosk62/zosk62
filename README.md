@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara K (Previously known as ZO) </h1>
-<h3 align="center">A passionate Data Scientist and AI engineer from South Korea</h3>
+
 
 - 🔭 Currently, I am engaged in AI and Data Analysis projects.
 - 👯 I am open to collaboration on **AI and Data Analysis projects**.
