@@ -39,8 +39,8 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ### 🌟 Showcase Projects (ML/DL Application)
 
-1. [BatteryInsight-SoH_Analysis_and_Predictive_Modeling](https://github.com/zosk62/PB01_BatteryInsight-SoH_Analysis_and_Predictive_Modeling)
-2. [Automated_ML_App_withPyCaret](https://github.com/zosk62/PB02_ML_App_PyCaret)
+1. [Automated_ML_App_withPyCaret](https://github.com/zosk62/PB02_ML_App_PyCaret)
+2. [BatteryInsight-SoH_Analysis_and_Predictive_Modeling](https://github.com/zosk62/PB01_BatteryInsight-SoH_Analysis_and_Predictive_Modeling)
 
 
 
