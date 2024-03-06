@@ -5,7 +5,7 @@
 - 👯 I am open to collaboration on **AI and Data Analysis projects**.
 
 - 📫 Reach me at: **zosk62@gmail.com**
-  You can also find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)]().
+  You can also find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/).
   
 ---
 - ## My CV
