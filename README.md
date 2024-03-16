@@ -79,8 +79,10 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 1. [Task_Manager_PyQt5_Python](https://github.com/zosk62/GUI01_Task_Manager_PyQt5_Python)
 
- 
-### 💡 Python Code Challenges & Exercises
+
+---
+
+### 🎓 Python Code Challenges & Exercises
 
 1. [Programmers_coding_test_collection](https://github.com/zosk62/programmers_coding_test)
 2. [Baekjoon_coding_test_collection](Link_To_Your_Repository_Here) 🧪
