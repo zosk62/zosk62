@@ -67,6 +67,12 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 
 ---
 
+### 🤖 Machine Learning & Deep Learning Fundamentals
+1. [Machine_Learning_Models](Link_To_Your_Repository_Here)
+2. [Deep_Learning_Models](Link_To_Your_Repository_Here)
+
+
+---
 
 ### 🌐 Front-End & Back-End Projects
 1. [Library Management System](https://github.com/zosk62/P02_Library_Management_System) 📖
