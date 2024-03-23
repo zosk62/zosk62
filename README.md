@@ -70,6 +70,7 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 ### 🤖 Machine Learning & Deep Learning Fundamentals
 1. [Machine_Learning_Models](Link_To_Your_Repository_Here)
 2. [Deep_Learning_Models](Link_To_Your_Repository_Here)
+3. [Computer_Vision](Link_To_Your_Repository_Here)
 
 
 ---
