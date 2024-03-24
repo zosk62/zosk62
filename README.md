@@ -47,7 +47,7 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 ---
 
 ### 👁️ Computer Vision Projects (Begineer to Advanced) 🔍
-1. [xxxxxxx](https://github.com/xxxx)
+1. [Interactive-hand-landmark_tkinter_gui]([https://github.com/xxxx](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/tree/main))
    
 ---
 
