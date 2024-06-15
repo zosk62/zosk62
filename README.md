@@ -43,6 +43,7 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 2. [BatteryInsight-SoH_Analysis_and_Predictive_Modeling](https://github.com/zosk62/PB01_BatteryInsight-SoH_Analysis_and_Predictive_Modeling)
 3. [Object_detection_Yolov8](https://github.com/zosk62/object_detection_Yolov8/tree/main)
 4. [ConversaBot-NLTK-and-Keras-Powered-ChatBot-Application](https://github.com/zosk62/ConversaBot-NLTK-and-Keras-Powered-ChatBot-Application/tree/main)
+5. [chatbot_with_openai_api](https://github.com/zosk62/chatbot_with_openai_api)
 
 ---
 
