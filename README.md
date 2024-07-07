@@ -46,6 +46,7 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 5. [customized_chatbot_rag_langchain_openai](https://github.com/zosk62/customized_chatbot_rag_langchain_openai)
 6. [chatbot_with_openai_api](https://github.com/zosk62/chatbot_with_openai_api)
 7. [LangChain Llama Chatbot](https://github.com/zosk62/Chatbot_LangChain_LLaMA/tree/main)
+8. [Image_Background_Removal_methods](https://github.com/zosk62/Background-Removal-for-Images/tree/main)
 
 ---
 
