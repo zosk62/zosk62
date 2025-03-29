@@ -36,7 +36,7 @@
 
 ---
 
-## Projects
+## Libraries
 
 ### 🌟 ML/DL Application
 https://github.com/zosk62/ML-DL-Application/tree/main
