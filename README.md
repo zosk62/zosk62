@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sara K (Previously known as ZO) </h1>
+<h1 align="center">Hi 👋, I'm Sara K  </h1>
 
 
-- 🔭 Currently, I am engaged in AI and Data Analysis projects.
-- 👯 I am open to collaboration on **AI and Data Analysis projects**.
+- 🔭 Currently, I am engaged in Computer vision related projects.
+
 
 - 📫 Reach me at: **zosk62@gmail.com**
-  You can also find me on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)]().
   
----
-- ## My CV
-You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
+
+
 
 ---
 
