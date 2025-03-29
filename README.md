@@ -81,15 +81,15 @@ You can view my CV on [GitHub MyCV](https://github.com/zosk62/MyCV).
 ---
 
 ### 🌐 Front-End & Back-End Projects
-([https://github.com/zosk62/P02_Library_Management_System](https://github.com/zosk62/fullstack-projects/tree/main)) 📖
+[https://github.com/zosk62/P02_Library_Management_System](https://github.com/zosk62/fullstack-projects/tree/main)) 
 
 
 
 ---
 
 ### 🐍 Python Apps & GUI Design
+https://github.com/zosk62/Python-Apps-GUI-Design
 
-1. [Task_Manager_PyQt5_Python](https://github.com/zosk62/GUI01_Task_Manager_PyQt5_Python)
 
 
 ---
