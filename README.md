@@ -45,22 +45,13 @@ https://github.com/zosk62/ML-DL-Application/tree/main
 ### 👁️ Computer Vision Projects (Begineer to Advanced) 🔍
 1. [Interactive-hand-landmark_tkinter_gui](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/tree/main)
    
----
 
-### 🎉 Fun Collaborative Projects
-
-1. [UAM_Taxi_Reservation_Service](https://github.com/zosk62/P05_UAM_Taxi_Reservation_Service)
-2. [Renewable_Energy_Utilization_Analysis](https://github.com/zosk62/P04_Renewable_Energy_Utilization_Analysis)
-3. [Electric_Vehicle_Charging_Station_System](https://github.com/zosk62/P03_Electric_Vehicle_Charging_Station)
 
 
 ---
 
 ### 📊 Data Analysis Applications
-
-1. [Commerce_Data_Dashboard_Streamlit](https://github.com/zosk62/DA02_Commerce_Data_Dashboard) 🛒 📊
-2. [YouTube Sentiment Insights](https://github.com/zosk62/DA01_Youtube_comments_wordcloud) 🎥 📈
-3. [Bitcoin_Price_Analysis_Timeseries](https://github.com/zosk62/DA03_Bitcoin_Price_Analysis_Timeseries)📊
+https://github.com/zosk62/Data-Analysis-Applications/tree/main
 
 ---
 
