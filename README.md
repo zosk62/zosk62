@@ -56,15 +56,13 @@ https://github.com/zosk62/Data-Analysis-Applications/tree/main
 ---
 
 ### 🤖 Machine Learning & Deep Learning Fundamentals
-1. [Machine_Learning_Models](Link_To_Your_Repository_Here)
-2. [Deep_Learning_Models](Link_To_Your_Repository_Here)
-3. [Computer_Vision](Link_To_Your_Repository_Here)
+https://github.com/zosk62/Machine-Learning-Deep-Learning-/tree/main
 
 
 ---
 
 ### 🌐 Front-End & Back-End Projects
-[https://github.com/zosk62/P02_Library_Management_System](https://github.com/zosk62/fullstack-projects/tree/main)) 
+https://github.com/zosk62/fullstack-projects/tree/main
 
 
 
@@ -72,15 +70,13 @@ https://github.com/zosk62/Data-Analysis-Applications/tree/main
 
 ### 🐍 Python Apps & GUI Design
 https://github.com/zosk62/Python-Apps-GUI-Design
-
+https://github.com/zosk62/Python-Code-Challenges-Exercises/tree/main
 
 
 ---
 
 ### 🎓 Python Code Challenges & Exercises
+https://github.com/zosk62/Python-Code-Challenges-Exercises/tree/main
 
-1. [Programmers_coding_test_collection](https://github.com/zosk62/programmers_coding_test)
-2. [Baekjoon_coding_test_collection](Link_To_Your_Repository_Here) 🧪
-3. [Other_coding_practice_collection](https://github.com/zosk62/Other_coding_practice_collection-) 🧪
 ---
 
