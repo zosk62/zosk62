@@ -42,8 +42,8 @@ https://github.com/zosk62/ML-DL-Application/tree/main
 
 ---
 
-### 👁️ Computer Vision Projects (Begineer to Advanced) 🔍
-1. [Interactive-hand-landmark_tkinter_gui](https://github.com/zosk62/interactive-hand-landmark_tkinter_gui/tree/main)
+### 👁️ Computer Vision Projects  🔍
+https://github.com/zosk62/Computer-Vision-Projects
    
 
 
